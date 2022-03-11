@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @h0rsa
 - 👀 I’m interested in programming and music
-- 🌱 I’m currently learning python
+- 🌱 I’m currently learning python, c++, html
