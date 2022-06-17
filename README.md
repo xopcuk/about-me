@@ -1,5 +1,5 @@
-- Developer on **Nixys, Calamity, Mitsu, etc**
+- Developer on **Hakone, Zxclosed, Beretta, etc**
 - Languages: **C#, Python, JS**
 - Telegram: **@dev_xopcuk**
 - Instagram: **h0rsa_**
-- Discord: **хорсик#6666**
+- Discord: **хорсик#1817**
