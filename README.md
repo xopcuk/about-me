@@ -1,5 +1,3 @@
-- Developer on **Hakone, Zxclosed, Beretta, etc**
-- Languages: **C#, Python, JS**
-- Telegram: **@dev_xopcuk**
-- Instagram: **h0rsa_**
+- Samsung Innovation Campus
+- Languages: **Java, JS, Python**
 - Discord: **хорсик#1817**
