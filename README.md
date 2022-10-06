@@ -1,3 +1,3 @@
 - Samsung Innovation Campus
 - Languages: **Java, JS, Python**
-- Discord: **хорсик#1817**
+- Discord: **хорсик#6666**
